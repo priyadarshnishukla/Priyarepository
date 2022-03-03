@@ -32,6 +32,8 @@ public class class2 {   // ((((10+2)-2)*2)/2)
 	
 	public static void main(String[] args) {
 		
+	System.out.println("added new one");
+		
 		class2 obj =new class2();
 		int sumresults=obj.sum(10, 2);
 		int subresults =obj.sub(sumresults,2);
