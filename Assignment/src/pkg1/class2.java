@@ -31,6 +31,7 @@ public class class2 {   // ((((10+2)-2)*2)/2)
 	}
 	
 	public static void main(String[] args) {
+	System.out.println("Result of expression");		
 		
         class2 obj =new class2();
 		int sumresults=obj.sum(10, 2);
